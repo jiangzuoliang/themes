@@ -105,10 +105,11 @@ h6 {
 }
 
 blockquote {
-  color: #939393;
+  color: #aaaaaa;
   margin: 0;
   padding-left: 3em;
   border-left: 0.5em #EEE solid;
+  font-size: 9pt;
 }
 
 hr {
